@@ -1,6 +1,5 @@
 <!-- Optional banner -->
-<![Header](https://raw.githubusercontent.com/layneaustin84/layneaustin84/main/banner.png
-) -->
+<![Header](https://raw.githubusercontent.com/layneaustin84/layneaustin84/main/banner.png) -->
 
 # 👋 Hi, I'm Layne Taylor (@layneaustin84)
 
